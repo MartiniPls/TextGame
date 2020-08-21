@@ -1,5 +1,4 @@
 # TextGame
-Language: C++
+*Language: C++
 
-
-2d base game
+*2d base game
